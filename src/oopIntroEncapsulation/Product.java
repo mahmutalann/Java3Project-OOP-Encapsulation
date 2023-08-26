@@ -8,7 +8,7 @@ public class Product {
 	private String detail; 
 	private double discount;
 	
-	public Product() {
+	public Product() { //Creating Constructor
 		
 	}
 	
