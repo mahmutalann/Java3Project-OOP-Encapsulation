@@ -3,7 +3,7 @@ package oopIntroEncapsulation;
 public class Product {
 	//Encapsulation
 	private int id;
-	private String name;
+	private String name; 
 	private double unitPrice;
 	private String detail; 
 	private double discount;
