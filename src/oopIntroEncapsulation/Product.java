@@ -77,3 +77,4 @@ public class Product {
 	}
 	
 }
+SOLID S = Single Responsibility provides that every class class should have only one responsibility.  
