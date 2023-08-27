@@ -77,4 +77,4 @@ public class Product {
 	}
 	
 }
-SOLID S = Single Responsibility Principle provides that every class class should have only one responsibility.  
+//SOLID S = Single Responsibility Principle provides that every class class should have only one responsibility.  
